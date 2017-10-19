@@ -9,3 +9,5 @@ git status  //查看当前暂存区
 git checkout --textme.txt  //撤销工作区的修改
 
 对dev分支修改
+
+git checkout -b feature
