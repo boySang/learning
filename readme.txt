@@ -21,3 +21,4 @@ git branch -d dev  //删除dev分支
 git checkout master;
 git merge dev	//合并dev分支到master
 
+禁用fast-forwork
