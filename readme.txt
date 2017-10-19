@@ -21,5 +21,6 @@ git branch -d dev  //删除dev分支
 git checkout master;
 git merge dev	//合并dev分支到master
 
-禁用fast-forwork
-l;j
+
+git remote add origin git@123.1.1.1/hj.git
+天假远程仓库，命名为origin
