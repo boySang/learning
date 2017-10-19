@@ -22,3 +22,7 @@ git checkout master;
 git merge dev	//合并dev分支到master
 
 禁用fast-forwork
+
+git mergr --no-ff -m "这会有纪录产生" dev
+fsdfsdf
+;kk;l
