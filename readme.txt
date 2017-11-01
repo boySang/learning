@@ -24,3 +24,6 @@ git merge dev	//合并dev分支到master
 
 git remote add origin git@123.1.1.1/hj.git
 天假远程仓库，命名为origin
+
+
+zxczxc
